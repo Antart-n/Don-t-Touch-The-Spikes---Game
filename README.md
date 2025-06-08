@@ -17,3 +17,9 @@ Você controla um passarinho que voa de um lado para o outro da tela. Seu objeti
 - Espaço;
 - Botão para cima;
 - Botão esquerdo do mouse.
+
+# Funcionalidades:
+- Alternancia de cor e tonalidade do fundo;
+- A medida que o jogador avança, mais aparecem espinhos;
+- Pontuação;
+- Exibição do recorde.
