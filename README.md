@@ -6,3 +6,14 @@ Você controla um passarinho que voa de um lado para o outro da tela. Seu objeti
 
 # Desmonstração:
 ![](GIF%20Don%27t%20Touch%20The%20Spikes.gif)
+
+# Como Executar:
+### 1. Certifique-se de que o python 3 estja instalado;
+### 2. Instale o modulo Pygame;
+### 3. Baixe os arquivos do jogo e os execute em uma IDE.
+
+# Constroles:
+### Você pode usar os seguintes botões para pular:
+- Espaço;
+- Botão para cima;
+- Botão esquerdo do mouse.
