@@ -16,6 +16,7 @@ Você controla um passarinho que voa de um lado para o outro da tela. Seu objeti
 ### Você pode usar os seguintes botões para pular:
 - Espaço;
 - Botão para cima;
+- Tecla w;
 - Botão esquerdo do mouse.
 
 ## Funcionalidades:
